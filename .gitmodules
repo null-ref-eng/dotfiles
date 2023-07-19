@@ -1,0 +1,3 @@
+[submodule "tmux-power"]
+	path = tmux-power
+	url = https://github.com/wfxr/tmux-power.git
